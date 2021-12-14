@@ -6,7 +6,7 @@ message = input("Enter the message to be decrypted:")
 
 alphabet = 'QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm!@#$%^&*()_\{\}+-=|[] 1234567890'
 
-key = int(input("Enter the key :"))		# key the value to change the message for alphabets
+key = int(input("Enter the Password to decrypt your message:"))		# key the value to change the message for alphabets
 
 decrypt = ''		# decrypt is the variable to store the data after change
 
