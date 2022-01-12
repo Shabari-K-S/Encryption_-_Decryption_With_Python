@@ -1,6 +1,6 @@
 # Encryption_-_Decryption_With_Python
 
-This code is help to make you chat veri privacy. Use any password to encrypt or decrypt your message.
+This code is help to make you chat very privacy. Use any password to encrypt or decrypt your message.
 
 
 to install this command to install it in android:-
